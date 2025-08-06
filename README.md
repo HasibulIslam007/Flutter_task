@@ -27,15 +27,7 @@ A cleanly structured Flutter application that guides users through onboarding, r
 
 ## 🧱 Folder Structure
 
-lib/
-├── constants/ # Colors and text styles
-├── common_widgets/ # Reusable widgets (button, card, etc.)
-├── features/
-│ ├── onboarding/
-│ ├── location/
-│ └── alarm/
-├── services/ # Notification logic
-├── main.dart # App entry point
+
 <img width="441" height="215" alt="image" src="https://github.com/user-attachments/assets/01f6039d-e835-43d7-9e76-08493f6109d6" />
 
 
